@@ -1,0 +1,629 @@
+{
+    "assignments": [
+        {
+            "id": "1",
+            "logourl": "../src/assets/images/companies/af.png",
+            "company": "ÅF",
+            "title": "Full-stack developer / Consultant",
+            "from": "2018-12",
+            "to": "2019-10",
+            "description": "Been building microservices(scheduled services and serverless Azurefunctions). Services like importing/exporting data in .csv formats, picture-optimizing cloudbased services etc. Also worked against WCF-services in backend and writing frontend in native JS or angularjs/jQuery in a ASP.NET MVC enviroment. And between those assignments I did some maintenance.",
+            "stack": "C#, .NET Core, MSSQL, WCF, .NET Core Web.API, .NET Core ASP.NET.MVC, GIT, Javascript, Angularjs, jQuery, CSS and very little React",
+            "location": [
+                {
+                    "city": "Stockholm / Solna"
+                },
+                {
+                    "country": "Sweden"
+                }
+            ],
+            "tools": [
+                "C#",
+                ".NET Core",
+                "T-SQL",
+                "MSSQL",
+                "WCF",
+                "WEB.API",
+                "ASP.NET MVC",
+                "GIT",
+                "Javascript",
+                "Angularjs",
+                "jQuery",
+                "CSS",
+                "very little React",
+                "NPM",
+                "Azure functions",
+                "Azure Devops",
+                "Swagger",
+                "Blobstorage",
+                "Magick.NET"
+            ]
+        },
+        {
+            "id": "2",
+            "logourl": "../src/assets/images/companies/scania.png",
+            "company": "Scania",
+            "title": "Frontend developer / Consultant",
+            "from": "2018-08",
+            "to": "2018-11",
+            "description": "Went on developing brand new dynamic GUI for a data heavy application used internationally.",
+            "stack": "",
+            "location": [
+                {
+                    "city": "Stockholm / Södertälje"
+                },
+                {
+                    "country": "Sweden"
+                }
+            ],
+            "tools": [
+                "Angular 6+",
+                "Angular Material",
+                "nodeJs",
+                "axios",
+                "RxJs",
+                "SCSS",
+                "NPM",
+                "GIT"
+            ]
+        },
+        {
+            "id": "3",
+            "logourl": "../src/assets/images/companies/seb.png",
+            "company": "SEB",
+            "title": "Full-stack developer / Consultant",
+            "from": "2017-10",
+            "to": "2018-06",
+            "description": "The assignment was to develop new ways / concepts to standardize frontend and web components for reuse in all applications, as well as to implement multilangauge functionality on the most visited pages.",
+            "stack": "",
+            "location": [
+                {
+                    "city": "Stockholm / Solna"
+                },
+                {
+                    "country": "Sweden"
+                }
+            ],
+            "tools": [
+                ".NET FW",
+                ".NET Core",
+                "Typescript",
+                "JS",
+                "Angular 5+",
+                "Bootstrap 4",
+                "NG-Bootstrap",
+                "FontAwesome 5",
+                "SCSS",
+                "BEM",
+                "NPM",
+                "T-SQL",
+                "MSSQL",
+                "TFS",
+                "GIT"
+            ]
+        },
+        {
+            "id": "4",
+            "logourl": "../src/assets/images/companies/hm.png",
+            "company": "H&M",
+            "title": "Full-stack developer / Consultant",
+            "from": "2017-04",
+            "to": "2018-08",
+            "description": "Devops, new development of new security routines for apps based on Azure AD. Concept development of new ways of working with Angular 2+, webpack 2, Dapper etc. in existing environments. As well as management of existing environments.",
+            "stack": "",
+            "location": [
+                {
+                    "city": "Stockholm / Solna"
+                },
+                {
+                    "country": "Sweden"
+                }
+            ],
+            "tools": [
+                ".NET WEB.API",
+                "ASP.NET MVC 5",
+                "Entity framework 6",
+                "HTML5",
+                "CSS3",
+                "JS",
+                "Angular 2+",
+                "Knockout.js",
+                "Gulp",
+                "NPM",
+                "T-SQL",
+                "MSSQL",
+                "Teamcity",
+                "GIT"
+            ]
+        },
+        {
+            "id": "5",
+            "logourl": "../src/assets/images/companies/tele2.png",
+            "company": "Tele2 / Comviq",
+            "title": "Backend developer & Functional frontend / Consultant",
+            "from": "2014-09",
+            "to": "2017-04",
+            "description": "Product development and maintenance of comviq.se and tele2.se. Rebuild presale.tele2.se from scratch in frontend to handle higher capacity, develop frontend for cloud-based stores for all sections of the Tele2 Group for high-traffic sales in major releases of new mobiles. Produce campaigns with a short deadline, also learned to use micro-architecture, Dapper, web-services etc.",
+            "stack": "",
+            "location": [
+                {
+                    "city": "Stockholm / Kista"
+                },
+                {
+                    "country": "Sweden"
+                }
+            ],
+            "tools": [
+                "C#",
+                ".NET FW",
+                ".NET WEB.API",
+                "Autofac",
+                "Entity framework 6",
+                "Microservices",
+                "Timed services",
+                "Azure",
+                "Active Directories",
+                "Repository pattern",
+                "IOC (Inversion Of Control)",
+                "UOW (Unit Of Work)",
+                "Octopus Deploy",
+                "Teamcity",
+                "Dapper",
+                "HTML5",
+                "CSS3",
+                "SCSS",
+                "LESS",
+                "JS",
+                "Angular.js",
+                "jQuery",
+                "Gulp",
+                "Grunt",
+                "Bootstrap 3",
+                "Foundation",
+                "T-SQL",
+                "MSSQL",
+                "PL-SQL",
+                "Oracle DB:s",
+                "Bitbucket",
+                "GIT"
+            ]
+        },
+        {
+            "id": "6",
+            "logourl": "../src/assets/images/companies/comviq.jpg",
+            "company": "Comviq",
+            "title": "Functional frontend / Consultant",
+            "from": "2014-09",
+            "to": "2017-04",
+            "description": "I had a purely functional front-end role at Comviq and have been managing of newly developed projects, building new projects, developing campaigns, and building entirely and deploying new modules from scratch in JavaScript or with Angularjs. The projects have had short deadlines and high tempo and I have not missed a single deadline during two years. Has also migrated older ASP.NET Classic to new ASP.NET MVC 5 environment for the front-end part.",
+            "stack": "",
+            "location": [
+                {
+                    "city": "Stockholm / Kista"
+                },
+                {
+                    "country": "Sweden"
+                }
+            ],
+            "tools": [         
+                "Angularjs",
+                "LESS",       
+                "Bootstrap 3",
+                "JS",
+                "Moment.js",
+                "Lodash",
+                "Cross-browser testing",
+                "HTML5",
+                "CSS3",
+                "LESS",
+                "jQuery",
+                "C#",
+                "ASP.NET",
+                ".NET FW",
+                "ASP.NET MVC 5",
+                "BundleTransformer",
+                "GIT"
+            ]
+        },
+        {
+            "id": "7",
+            "logourl": "../src/assets/images/companies/tele2.png",
+            "company": "Presale Tele2",
+            "title": "Functional frontend / Consultant",
+            "from": "2016-03",
+            "to": "2016-04",
+            "description": "I was commissioned to do a total implementation and refactoring of the old design for presale.tele2.se on my own at approx. 160 hours.",
+            "stack": "",
+            "location": [
+                {
+                    "city": "Stockholm / Kista"
+                },
+                {
+                    "country": "Sweden"
+                }
+            ],
+            "tools": [
+                "HTML5",
+                "SCSS",           
+                "Angularjs",
+                "JS",    
+                "Compass",
+                "Zurb Foundation",
+                "Moment.js",
+                "Lodash",                 
+                "Cross-browser testing",
+                "jQuery",
+                "CDN",
+                "ASP.NET MVC 5",
+                "GIT"
+            ]
+        },
+        {
+            "id": "8",
+            "logourl": "../src/assets/images/companies/comviq.jpg",
+            "company": "Comviq & Tele2",
+            "title": "Functional frontend / Consultant",
+            "from": "2014-09",
+            "to": "2017-04",
+            "description": "I was commissioned to make a working frontend for Comviq, Tele2 and Tele2 Business in a short time for iPhone's nightly releases. One of these sites has a minimum requirement to handle at least 700 orders per minute. At best, the sites have handled 3500 orders per minute. And never went down during those years.",
+            "stack": "",
+            "location": [
+                {
+                    "city": "Stockholm / Kista"
+                },
+                {
+                    "country": "Sweden"
+                }
+            ],
+            "tools": [
+                "C#",
+                "ASP.NET MVC 5",
+                "BundleTransformer",
+                "Azure cloud deploys",
+                "Azure CDN",
+                "HTML5",
+                "LESS",
+                "JS",
+                "Angular.js",
+                "jQuery",
+                "Bootstrap 3",
+                "GIT"
+            ]
+        },
+        {
+            "id": "9",
+            "logourl": "../src/assets/images/companies/tele2.png",
+            "company": "Tele2 Business",
+            "title": "Functional frontend / Consultant",
+            "from": "2014-09",
+            "to": "2017-04",
+            "description": "I was commissioned to build a frontend GUI for clients in a larger staff management system. This was solved using Gulp.js, NPM, Angular.js, SASS and Bootstrap in a C # / .NET environment.",
+            "stack": "",
+            "location": [
+                {
+                    "city": "Stockholm / Kista"
+                },
+                {
+                    "country": "Sweden"
+                }
+            ],
+            "tools": [
+                "C#",
+                "ASP.NET MVC 5",
+                "Gulp.js",
+                "JS",
+                "Ecmascript 6",
+                "SCSS",
+                "Bootstrap 3",
+                "NPM",             
+                "Angular.js",
+                "jQuery",
+                "GIT"
+            ]
+        },
+        {
+            "id": "10",
+            "logourl": "../src/assets/images/companies/chas.png",
+            "company": "Chas",
+            "title": "Fullstack developer / Inhouse",
+            "from": "2014-04",
+            "to": "2014-09",
+            "description": "I participated in a development project that produced a database for all consulting companies. The purpose of the system was to be able to easily obtain relevant profiles for all consultants and search for competence while maintaining the quality of the information through a continuous review process. The system retrieves information about the consultants via a REST API from a CRM (Oden BI), a Business Intelligence system adapted for IT consulting companies.",
+            "stack": "",
+            "location": [
+                {
+                    "city": "Stockholm"
+                },
+                {
+                    "country": "Sweden"
+                }
+            ],
+            "tools": [
+                "C#",
+                ".NET WEB.API",
+                ".NET FW",
+                "T-SQL",
+                "MSSQL",
+                "JS",
+                "Angular.js",
+                "CSS3",
+                "Bootstrap 3",
+                "GIT",             
+                "TDD",
+                "SCRUM"
+            ]
+        },
+        {
+            "id": "11",
+            "logourl": "../src/assets/images/logo.png",
+            "company": "Lägenhetsbyte.se",
+            "title": "Fullstack developer / Consultant",
+            "from": "2014-02",
+            "to": "2014-04",
+            "description": "I have been working on developing the next generation of the popular site Lagenhetsbyte.se. The assignment has used the latest frontend technology with HTML5, CSS3 and has meant a lot of development with Javascript and the framework Angular.js. The project was in the final phase.",
+            "stack": "",
+            "location": [
+                {
+                    "city": "Stockholm / City"
+                },
+                {
+                    "country": "Sweden"
+                }
+            ],
+            "tools": [
+                "C#",
+                ".NET WEB.API",
+                ".NET FW",
+                "T-SQL",
+                "MSSQL",
+                "JS",
+                "Angular.js",
+                "CSS3",
+                "Bootstrap 3",
+                "GIT",             
+                "TDD",
+                "SCRUM"
+            ]
+        },
+        {
+            "id": "12",
+            "logourl": "../src/assets/images/companies/chas.png",
+            "company": "Chas",
+            "title": "Frontend developer / Inhouse",
+            "from": "2013-11",
+            "to": "2014-02",
+            "description": "I have been working on the development of the new website(chas.se) for IT consulting company Chas. The mission has been to develop the frontend part based on the latest technology with HTML5, CSS3 and responsive design. The project was carried out agile with Scrum.",
+            "stack": "",
+            "location": [
+                {
+                    "city": "Stockholm / Liljeholmen"
+                },
+                {
+                    "country": "Sweden"
+                }
+            ],
+            "tools": [
+                "HTML5",
+                "CSS3",
+                "SASS",
+                "JS",
+                "jQuery",
+                "InuitCSS",
+                "Grunt",
+                "GIT",             
+                "Node.js",
+                "PHP",
+                "Responsive Design",
+                "SCRUM"
+            ]
+        },
+        {
+            "id": "13",
+            "logourl": "../src/assets/images/companies/chas.png",
+            "company": "Chas",
+            "title": "Fullstack / Inhouse",
+            "from": "2013-08",
+            "to": "2013-12",
+            "description": "I have been commissioned to work on the development of a web service with chat functionality. The service used the ASP.NET, Entity Framework, WCF and AJAX frameworks.",
+            "stack": "",
+            "location": [
+                {
+                    "city": "Stockholm / Liljeholmen"
+                },
+                {
+                    "country": "Sweden"
+                }
+            ],
+            "tools": [
+                "HTML5",
+                "CSS3",
+                "JS",
+                "jQuery",
+                "C#",
+                ".NET FW",
+                "ASP.NET",
+                "Entity framework",
+                "WCF",
+                "Web Services",
+                "AJAX",
+                "Architecture",
+                "Subversion"
+            ]
+        },
+        {
+            "id": "14",
+            "logourl": "../src/assets/images/logo.png",
+            "company": "Hammarbysjöstad.info",
+            "title": "Web-development / Concept addons",
+            "from": "2013",
+            "to": "2013",
+            "description": "I worked on developing different methods of attack to implement a timetable for the ferries to hammarbysjostad.info. The timetable was based on PHP, HTML, CSS. I have had dialogues on several occasions for the future development of the site.",
+            "stack": "",
+            "location": [
+                {
+                    "city": "Stockholm / Remote"
+                },
+                {
+                    "country": "Sweden"
+                }
+            ],
+            "tools": [
+                "PHP",
+                "IT strategy",
+                "HTML",
+                "CSS"
+            ]
+        },
+        {
+            "id": "15",
+            "logourl": "../src/assets/images/companies/softronic.png",
+            "company": "Softronic / Unionen",
+            "title": "Backend developer / Inhouse",
+            "from": "2012-02",
+            "to": "2012-06",
+            "description": "I have worked in a major administration project for a Union case management system. The system consisted of a WinForms application with C # in the backend. In the assignment, Michael has worked with MSSQL, C #, XML and Word templates with VBA script.",
+            "stack": "",
+            "location": [
+                {
+                    "city": "Stockholm / Skanstull"
+                },
+                {
+                    "country": "Sweden"
+                }
+            ],
+            "tools": [
+                "C#",
+                ".NET FW",
+                "Windows Forms",
+                "T-SQL",
+                "MSSQL",
+                "XML",
+                "VBA-scripts",
+                "Word-templates",
+                "Custom CMS",
+                "Subversion"
+            ]
+        },
+        
+        {
+            "id": "16",
+            "logourl": "../src/assets/images/logo.png",
+            "company": "Hammarbysjöstad.info",
+            "title": "Web-development / Concept addons",
+            "from": "2013",
+            "to": "2013",
+            "description": "I worked on developing different methods of attack to implement a timetable for the ferries to hammarbysjostad.info. The timetable was based on PHP, HTML, CSS. I have had dialogues on several occasions for the future development of the site.",
+            "stack": "",
+            "location": [
+                {
+                    "city": "Stockholm / Remote"
+                },
+                {
+                    "country": "Sweden"
+                }
+            ],
+            "tools": [
+                "PHP",
+                "IT strategy",
+                "HTML",
+                "CSS"
+            ]
+        },      
+        {
+            "id": "17",
+            "logourl": "../src/assets/images/logo.png",
+            "company": "muscles.se",
+            "title": "Wireframing and easier UX-design",
+            "from": "2012",
+            "to": "2012",
+            "description": "I was commissioned to develop interaction design for the new website muscles.se, a site about health, exercise and muscles. When developing the new interaction design, it was important to think about how the information could be made more easily accessible to users and how to increase sales. To create wireframes, the Balsamiq tool was used.",
+            "stack": "",
+            "location": [
+                {
+                    "city": "Stockholm / Remote"
+                },
+                {
+                    "country": "Sweden"
+                }
+            ],
+            "tools": [
+                "Wireframes",
+                "Balsamiq"
+            ]
+        },
+        {
+            "id": "18",
+            "logourl": "../src/assets/images/companies/softronic.png",
+            "company": "Softronic / Handelsanställdas Förbund",
+            "title": "Backend developer / Inhouse",
+            "from": "2011-11",
+            "to": "2011-12",
+            "description": "The assignment was to merge several of Handel's departments by making customizations in an MSSQL database.",
+            "stack": "",
+            "location": [
+                {
+                    "city": "Stockholm / Skanstull"
+                },
+                {
+                    "country": "Sweden"
+                }
+            ],
+            "tools": [
+                "T-SQL",
+                "MSSQL"
+            ]
+        },
+        {
+            "id": "19",
+            "logourl": "../src/assets/images/logo.png",
+            "company": "Sundström Media",
+            "title": "HTML-templates / Architecture / Business development",
+            "from": "2011",
+            "to": "2011",
+            "description": "I was commissioned to develop strategies for future IT operations at Sundström Media. I also got to work on developing HTML and CSS and implementing it as templates on a Wordpress based website.",
+            "stack": "",
+            "location": [
+                {
+                    "city": "Stockholm / Remote"
+                },
+                {
+                    "country": "Sweden"
+                }
+            ],
+            "tools": [
+                "PHP",
+                "IT strategy",
+                "HTML",
+                "CSS",
+                "Wordpress CMS",
+                "template development"
+            ]
+        },
+        {
+            "id": "20",
+            "logourl": "../src/assets/images/logo.png",
+            "company": "My own time and idea",
+            "title": "Windows phone app development",
+            "from": "2010-01",
+            "to": "2010-05",
+            "description": "I have developed a web app that contains service descriptions for security guards to make the information easily accessible on the mobile. The app is available in different versions for different platforms and is based on Silverlight and Android, among other things.",
+            "stack": "",
+            "location": [
+                {
+                    "city": "Stockholm / Home"
+                },
+                {
+                    "country": "Sweden"
+                }
+            ],
+            "tools": [
+                "Silverlight",
+                "XAML",
+                "C#",
+                ".NET FW",
+                "Android SDK",
+                "Architecture"
+            ]
+        }
+    ]
+}

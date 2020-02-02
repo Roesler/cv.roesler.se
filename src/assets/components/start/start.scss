@@ -1,0 +1,137 @@
+.bg-texture {
+    background: url(../../images/light-texture-50.png) repeat-x right top #7a7777;
+}
+
+.container {
+    position: relative;
+    padding-bottom: 80px;
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+}
+
+@media (min-width: 992px) {
+    .container {
+        min-height: 680px;
+    }
+}
+
+img {
+    max-width: 180px;
+}
+
+#section-presentation {
+    opacity: 1;
+
+    @media (max-width: 992px) {
+        left: 0;
+    }
+}
+
+#section-resume {
+    opacity: 0;
+
+    @media (max-width: 992px) {
+        opacity: 1;
+    }
+}
+
+#section-skills {
+    opacity: 0;
+
+    @media (max-width: 992px) {
+        opacity: 1;
+    }
+}
+
+#section-contact {
+    opacity: 0;
+
+    @media (max-width: 992px) {
+        opacity: 1;
+    }
+}
+
+.section-card {
+    width: 99%;
+    margin: 0 auto;
+    overflow-y: scroll;
+    background: #f1f1f1;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 12px;
+    border-radius: 0px;
+    border-top: 5px solid #111;
+    border-bottom: 5px solid #111;
+
+    &.card-shadow {
+        -webkit-box-shadow: 0px 6px 30px 0px rgba(0, 0, 0, 0.9);
+        -moz-box-shadow: 0px 6px 30px 0px rgba(253, 120, 120, 0.9);
+        box-shadow: 0px 6px 30px 0px rgba(0, 0, 0, 0.9);
+    }
+
+    &.sub-card-active {
+        left: 15%;
+    }
+
+    .section-card-content {
+        /*  padding-left: 12px;
+        padding-right: 12px; */
+    }
+
+    .section-card-title {
+        /*   padding-left: 12px;
+        padding-right: 12px; */
+    }
+}
+
+.card-trans {
+    left: inherit;
+    transition: margin-left 0.6s ease-in-out;
+    transition-property: all;
+    transition-duration: 0.6s;
+    transition-timing-function: ease-in-out;
+    transition-delay: 0s;
+
+    &.active-card {
+        left: 61%;
+        animation-name: displaythis;
+        animation-duration: 2s;
+        animation-iteration-count: 1;
+        animation-fill-mode: both;
+
+        @media (max-width: 992px) {
+            left: 0;
+        }
+    }
+}
+
+@keyframes displaythis {
+    from {
+        display: hidden;
+        opacity: 0;
+    }
+
+    to {
+        display: visible;
+        opacity: 1;
+    }
+}
+
+@media (min-width: 992px) {
+    .section-card {
+        position: absolute;
+        margin-top: 30px;
+        left: 30%;
+        height: 570px;
+        width: 45%;
+        padding: 24px;
+        padding-bottom: 20px;
+    }
+}
+
+@media (min-width: 1200px) {
+    .section-card {
+        margin-top: 180px;
+    }
+}

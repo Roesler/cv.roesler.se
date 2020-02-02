@@ -1,0 +1,57 @@
+{
+    "educations": [
+        {
+            "id" : "1",
+            "logourl": "../src/assets/images/companies/nackademin.png",
+            "from": "2009",
+            "to": "2011",
+            "title": "Nackademin",
+            "description": ".Net developer education",
+            "location": [
+                {
+                    "city": "Stockholm"
+                },
+                {
+                    "country": "Sweden"
+                }
+            ],
+            "subjects": [           
+                "HTML",
+                "CSS",
+                "JS",
+                "MSSQL",
+                "Windows Phone 7 / Silverlight developing",
+                "Windows Forms",
+                "WPF",
+                "ASP.NET",
+                "ASP.NET MVC 3",
+                "C#",
+                ".NET FW",
+                "Design Patterns"
+            ]
+        },
+        {
+        "id" : "2",
+        "logourl": "../src/assets/images/companies/nackademin.png",
+        "from": "2013",
+        "to": "2014",
+        "title": "Nackademin",
+        "description": ".Net EpiServer 6 + 7",
+        "location": [
+            {
+                "city": "Stockholm"
+            },
+            {
+                "country": "Sweden"
+            }
+        ],
+        "subjects": [
+            "C#",
+            "EpiServer 6 + 7",
+            "MSSQL",
+            "ASP.NET MVC",
+            "ASP.NET"
+        ]
+    }
+    ]
+}

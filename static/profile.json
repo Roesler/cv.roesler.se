@@ -1,0 +1,14 @@
+{
+    "profile": {
+        "name": "Michael Roesler",
+        "visible-until": "2020-09-29",
+        "title": "Fullstack developer",
+        "presentation": "Professional developer based in Stockholm. Sometimes works as a freelancer.",
+        "born": "1980",
+        "created": "2019-09-29",
+        "updated": "2019-09-29",
+        "email": "michael@roesler.se",
+        "linkedin": "https://www.linkedin.com/in/it-consultant-sweden/",
+        "phone": "+46736878888"
+    }
+}

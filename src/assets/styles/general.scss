@@ -1,0 +1,15 @@
+@import 'node_modules/bootstrap/scss/bootstrap';
+@import 'node_modules/bootstrap-vue/src/index.scss';
+
+.btn-info {
+    background-color: #283e4a;
+    border-color: #283e4a;
+
+    &:active,
+    &:hover,
+    &:focus {
+        background-color: #021533;
+        border-color: #021533;
+
+    }
+}
